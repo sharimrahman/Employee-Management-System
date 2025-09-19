@@ -10,7 +10,7 @@ Relationships maintained: Employee references Department via foreign key.
 
 RESTful APIs for all operations (GET, POST, PUT, PATCH, DELETE).
 
-Technology Stack
+Technology Stack 
 
 Backend: Java, Spring Boot
 
